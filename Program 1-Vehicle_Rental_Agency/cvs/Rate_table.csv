@@ -1,0 +1,4 @@
+"Rates_ID","Type","Daily_Rate","Weekly_Rate","Weekend_Rate","Unlimited_Milage","FreeMilesPerDay","PerMileCharge","Insurance"
+"1","Car","$24.95","$149.95","$44.95","Yes","n/a","n/a","$14.95"
+"2","SUV","$29.95","$189.95","$54.95","No","150","0.50","$14.95"
+"3","Truck","$34.95","$224.95","$59.95","No","0","0.99","$14.95"
